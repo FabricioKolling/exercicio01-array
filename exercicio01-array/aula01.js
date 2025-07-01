@@ -7,3 +7,4 @@ function contarElementos(array) {
   }
   return contador;
 }
+console.log(contarElementos(animais));
